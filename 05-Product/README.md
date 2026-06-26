@@ -1,8 +1,8 @@
-# docs
+# Product
 
 ## Purpose
 
-Documentation for the **docs** area of the Nebo Flow project.
+Documentation for the **Product** area of the Nebo Flow project.
 
 ## Contents
 

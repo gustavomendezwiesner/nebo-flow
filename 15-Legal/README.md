@@ -1,8 +1,8 @@
-# docs
+# Legal
 
 ## Purpose
 
-Documentation for the **docs** area of the Nebo Flow project.
+Documentation for the **Legal** area of the Nebo Flow project.
 
 ## Contents
 

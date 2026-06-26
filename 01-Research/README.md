@@ -1,8 +1,8 @@
-# docs
+# Research
 
 ## Purpose
 
-Documentation for the **docs** area of the Nebo Flow project.
+Documentation for the **Research** area of the Nebo Flow project.
 
 ## Contents
 

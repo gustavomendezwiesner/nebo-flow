@@ -1,8 +1,8 @@
-# docs
+# UX
 
 ## Purpose
 
-Documentation for the **docs** area of the Nebo Flow project.
+Documentation for the **UX** area of the Nebo Flow project.
 
 ## Contents
 

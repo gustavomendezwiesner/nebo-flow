@@ -1,8 +1,8 @@
-# docs
+# Business
 
 ## Purpose
 
-Documentation for the **docs** area of the Nebo Flow project.
+Documentation for the **Business** area of the Nebo Flow project.
 
 ## Contents
 

@@ -1,8 +1,8 @@
-# docs
+# Video
 
 ## Purpose
 
-Documentation for the **docs** area of the Nebo Flow project.
+Documentation for the **Video** area of the Nebo Flow project.
 
 ## Contents
 
