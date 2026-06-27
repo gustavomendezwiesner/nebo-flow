@@ -1,246 +1,193 @@
-\# Customer Interviews
+# Customer Interviews
 
-
-
-\## Propósito
-
-
+## Objetivo
 
 Este documento almacena todas las entrevistas realizadas a clientes potenciales de Nebo Flow.
 
+El objetivo no es vender una solución.
 
+El objetivo es descubrir:
 
-El objetivo es comprender el problema real antes de diseñar una solución.
+- Problemas reales.
+- Cómo resuelven hoy el problema.
+- Cuánto tiempo pierden.
+- Cuánto dinero les cuesta.
+- Quién toma la decisión de compra.
+- Qué tan urgente consideran resolverlo.
 
+---
 
+# Principios
 
-\---
+Antes de construir cualquier producto debemos validar el problema.
 
+Nunca preguntar:
 
+❌ ¿Comprarías esta plataforma?
 
-\# Reglas
+Siempre preguntar:
 
+✅ ¿Cómo haces esto hoy?
 
+---
 
-No validar la solución.
+# Reglas de entrevista
 
+## No vender
 
+La entrevista NO es una reunión comercial.
 
-Validar el problema.
+---
 
+## Hablar del pasado
 
+Preguntar siempre sobre situaciones reales.
 
-Escuchar más de lo que hablamos.
+No sobre escenarios hipotéticos.
 
+---
 
+## Buscar evidencia
 
-Preguntar por experiencias reales.
+No aceptar respuestas generales.
 
+Profundizar con ejemplos.
 
+---
 
-Evitar preguntas que induzcan respuestas.
+## Cuantificar
 
+Siempre intentar medir:
 
+- Horas perdidas
+- Número de personas involucradas
+- Frecuencia del problema
+- Costos
+- Riesgos
+- Retrabajos
 
-\---
+---
 
+# Información del entrevistado
 
+Fecha:
 
-\# Plantilla de entrevista
+Empresa:
 
+Industria:
 
+Cargo:
 
-\## Fecha
+Número de empleados:
 
+Entrevistador:
 
+Duración:
 
-\---
+---
 
+# Problema
 
+## ¿Cómo realiza actualmente este proceso?
 
-\## Empresa
+Respuesta:
 
+---
 
+## ¿Qué es lo más difícil?
 
-\---
+Respuesta:
 
+---
 
+## ¿Qué errores ocurren normalmente?
 
-\## Cargo
+Respuesta:
 
+---
 
+## ¿Qué herramientas utiliza?
 
-\---
+Respuesta:
 
+---
 
+## ¿Cuántas personas participan?
 
-\## Sector
+Respuesta:
 
+---
 
+## ¿Cuánto tiempo tarda normalmente?
 
-\---
+Respuesta:
 
+---
 
+## ¿Qué pasa cuando algo sale mal?
 
-\## Entrevistado
+Respuesta:
 
+---
 
+## ¿Con qué frecuencia ocurre?
 
-\---
+Respuesta:
 
+---
 
+## ¿Cuánto dinero cree que cuesta este problema?
 
-\# Problema actual
+Respuesta:
 
+---
 
+## ¿Qué ha intentado para solucionarlo?
 
-¿Cómo realizan actualmente este proceso?
+Respuesta:
 
+---
 
+## ¿Quién toma la decisión de comprar una solución?
 
-\---
+Respuesta:
 
+---
 
+## ¿Existe presupuesto?
 
-¿Qué es lo más difícil?
+Respuesta:
 
+---
 
+# Conclusiones
 
-\---
+### Nivel de dolor
 
+☐ Bajo
 
+☐ Medio
 
-¿Cuánto tiempo toma?
+☐ Alto
 
+---
 
+### ¿Vale la pena seguir investigando?
 
-\---
+Sí / No
 
+---
 
+### Observaciones
 
-¿Qué errores ocurren con mayor frecuencia?
+...
 
+---
 
+### Próximas acciones
 
-\---
+- [ ]
 
+- [ ]
 
-
-¿Qué herramientas utilizan?
-
-
-
-\---
-
-
-
-¿Cuántas personas participan?
-
-
-
-\---
-
-
-
-¿Qué documentos intervienen?
-
-
-
-\---
-
-
-
-¿Qué sucede cuando algo sale mal?
-
-
-
-\---
-
-
-
-¿Cuánto cuesta este problema?
-
-
-
-\---
-
-
-
-¿Han intentado resolverlo antes?
-
-
-
-\---
-
-
-
-¿Qué les gustaría mejorar?
-
-
-
-\---
-
-
-
-\# Oportunidad identificada
-
-
-
-\---
-
-
-
-\# Frases textuales importantes
-
-
-
-\---
-
-
-
-\# Nivel de dolor
-
-
-
-⭐ 1–5
-
-
-
-\---
-
-
-
-\# Disposición a pagar
-
-
-
-⭐ 1–5
-
-
-
-\---
-
-
-
-\# Comentarios
-
-
-
-\---
-
-
-
-\# Próximas acciones
-
-
-
-\* Agendar seguimiento.
-
-\* Solicitar documentación.
-
-\* Validar flujo del proceso.
-
-\* Actualizar Opportunity Scorecard.
-
-
-
+- [ ]
