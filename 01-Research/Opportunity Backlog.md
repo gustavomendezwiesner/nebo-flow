@@ -238,4 +238,54 @@ Una plataforma web guiada donde:
 
 Investigación
 
+---
 
+# 03. Crédito hipotecario
+
+## Problema
+
+Solicitar un crédito hipotecario es un proceso complejo que requiere recopilar, validar y actualizar una gran cantidad de documentos financieros, laborales, tributarios y personales antes de que una entidad financiera pueda aprobar el préstamo.
+
+Actualmente, gran parte del proceso se gestiona mediante correos electrónicos, llamadas telefónicas, formularios y el intercambio manual de documentos PDF. Es frecuente que el banco solicite documentos adicionales, versiones actualizadas o aclaraciones, generando múltiples ciclos de revisión que retrasan la aprobación del crédito.
+
+Además, intervienen diferentes actores como el cliente, el asesor hipotecario, el banco, la inmobiliaria, la empresa donde trabaja el solicitante, el avalúo y, posteriormente, la notaría. La falta de una plataforma unificada dificulta el seguimiento del proceso y genera incertidumbre para todas las partes.
+
+Como resultado, el proceso puede tardar semanas o incluso meses, afectando la experiencia del cliente y retrasando la compra de la vivienda.
+
+## Cliente objetivo
+
+Entidades financieras, bancos, compañías de financiamiento, brokers hipotecarios e inmobiliarias que gestionan un alto volumen de solicitudes de crédito.
+
+## Quién paga
+
+Principalmente las entidades financieras y los brokers hipotecarios, ya que obtienen beneficios al reducir tiempos de aprobación, mejorar la experiencia del cliente y aumentar la conversión de solicitudes en créditos desembolsados.
+
+## Costo actual
+
+Los principales costos incluyen:
+
+- Horas de trabajo administrativo revisando documentos.
+- Retrasos en la aprobación del crédito.
+- Abandono del proceso por parte de clientes.
+- Múltiples solicitudes de información adicional.
+- Baja visibilidad del estado del trámite.
+- Uso intensivo de correo electrónico y llamadas para seguimiento.
+
+## Fricción principal
+
+La documentación llega de forma incompleta o desactualizada, no existe un flujo claro para el solicitante y cada participante maneja información parcial del proceso, generando reprocesos, demoras e incertidumbre.
+
+## MVP
+
+Una plataforma guiada donde:
+
+1. El solicitante crea su proceso de crédito.
+2. El sistema solicita únicamente los documentos requeridos según su perfil.
+3. El cliente carga la documentación desde cualquier dispositivo.
+4. El banco revisa y solicita correcciones cuando sea necesario.
+5. Todas las partes pueden consultar el estado del trámite en tiempo real.
+6. El sistema notifica automáticamente los siguientes pasos hasta la aprobación del crédito.
+
+## Estado
+
+Investigación
