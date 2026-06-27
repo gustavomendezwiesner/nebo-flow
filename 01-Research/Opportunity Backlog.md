@@ -289,3 +289,65 @@ Una plataforma guiada donde:
 ## Estado
 
 Investigación
+
+---
+
+# 04. Compra de vivienda
+
+## Problema
+
+Comprar una vivienda es uno de los procesos más complejos que realiza una persona en su vida. Requiere coordinar múltiples actores, recopilar una gran cantidad de documentos, cumplir requisitos legales y financieros, realizar aprobaciones y hacer seguimiento a cada etapa del proceso.
+
+Actualmente, gran parte de la información se intercambia mediante correos electrónicos, llamadas telefónicas, mensajes de WhatsApp y documentos PDF. El comprador suele desconocer el estado real del proceso, qué documentos faltan, quién tiene la siguiente acción y cuánto tiempo tomará cada etapa.
+
+Además, intervienen diferentes organizaciones como la inmobiliaria, el banco, la fiduciaria, la notaría, la oficina de registro y, en algunos casos, entidades gubernamentales. La falta de coordinación genera retrasos, reprocesos e incertidumbre para todas las partes.
+
+Como resultado, el proceso puede extenderse durante varias semanas o meses, afectando la experiencia del comprador y retrasando la entrega de la vivienda.
+
+## Cliente objetivo
+
+Empresas inmobiliarias, constructoras, fiduciarias y entidades financieras que acompañan procesos de compra de vivienda.
+
+## Quién paga
+
+Principalmente:
+
+- Constructoras.
+- Inmobiliarias.
+- Fiduciarias.
+- Bancos.
+- Plataformas inmobiliarias.
+
+El comprador obtiene una mejor experiencia, pero el cliente que adquiere la solución es la organización que coordina el proceso.
+
+## Costo actual
+
+Los principales costos incluyen:
+
+- Retrasos en el cierre de las ventas.
+- Alto volumen de llamadas y correos de seguimiento.
+- Baja visibilidad del estado del proceso.
+- Reprocesos por documentos incompletos.
+- Coordinación manual entre múltiples organizaciones.
+- Insatisfacción del cliente por falta de información.
+
+## Fricción principal
+
+El comprador no tiene una experiencia guiada que le indique qué debe hacer, qué documentos entregar, quién está gestionando cada etapa y cuál es el estado del proceso.
+
+La coordinación entre múltiples actores depende principalmente de comunicación manual, generando incertidumbre, retrasos y reprocesos.
+
+## MVP
+
+Una plataforma guiada donde:
+
+1. El comprador inicia el proceso de adquisición.
+2. El sistema identifica el estado del trámite.
+3. Solicita únicamente la documentación necesaria para cada etapa.
+4. Coordina automáticamente las tareas entre comprador, inmobiliaria, banco, fiduciaria y notaría.
+5. Muestra el avance del proceso en tiempo real.
+6. Envía recordatorios y notificaciones automáticas hasta la entrega de la vivienda.
+
+## Estado
+
+Investigación
