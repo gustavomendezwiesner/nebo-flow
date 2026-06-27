@@ -9,7 +9,7 @@
 
 ## Ideas
 
-# Homologación de proveedores
+# 01. Homologación de proveedores
 
 ## Problema
 
@@ -172,4 +172,70 @@ El MVP será exitoso si demuestra que es posible:
 * Cuantificar tiempos, costos y reprocesos.
 * Validar la disposición de pago por una solución como Nebo Flow.
 * Definir el flujo funcional del MVP.
+
+---
+
+# 02. Onboarding de contratistas
+
+## Problema
+
+Las empresas que contratan servicios de terceros deben verificar que los contratistas cumplan con todos los requisitos legales, laborales, de seguridad y de cumplimiento antes de permitirles ingresar a sus instalaciones o iniciar actividades.
+
+Actualmente este proceso suele gestionarse mediante correos electrónicos, hojas de cálculo, carpetas compartidas y documentos PDF enviados manualmente. Como resultado, es frecuente que los contratistas entreguen información incompleta, documentos vencidos o formatos incorrectos, generando múltiples ciclos de revisión y retrasando el inicio de los trabajos.
+
+Además, participan diferentes áreas de la organización, como Compras, HSEQ, Seguridad y Salud en el Trabajo, Talento Humano, Jurídica y el área solicitante del servicio. Cada una revisa diferentes requisitos, aumentando la complejidad del proceso y dificultando la trazabilidad.
+
+El resultado es un proceso lento, costoso y con alto riesgo operativo, que puede retrasar proyectos, generar incumplimientos legales e impedir que los contratistas inicien actividades en la fecha prevista.
+
+## Cliente objetivo
+
+Empresas medianas y grandes que gestionan un alto volumen de contratistas o proveedores de servicios, especialmente en sectores como construcción, infraestructura, energía, petróleo y gas, puertos, industria, manufactura, minería, salud, hotelería y centros de convenciones.
+
+## Quién paga
+
+La empresa contratante.
+
+Generalmente el presupuesto pertenece a áreas como:
+
+- Compras
+- Abastecimiento
+- Gestión de contratistas
+- HSEQ
+- Talento Humano
+- Administración
+- Operaciones
+
+## Costo actual
+
+Las organizaciones destinan una cantidad considerable de tiempo administrativo al seguimiento documental, la validación de requisitos y la coordinación entre diferentes áreas.
+
+Los principales costos incluyen:
+
+- Horas de trabajo administrativo.
+- Retrasos en el inicio de contratos.
+- Riesgo de sanciones por incumplimiento legal.
+- Incumplimiento en auditorías.
+- Baja productividad por seguimiento manual mediante correo electrónico y hojas de cálculo.
+
+## Fricción principal
+
+No existe un flujo único donde el contratista conozca exactamente qué documentos debe entregar, quién debe aprobarlos, cuáles están pendientes y cuál es el estado del proceso.
+
+La coordinación entre múltiples actores y la falta de trazabilidad generan demoras, errores y retrabajos.
+
+## MVP
+
+Una plataforma web guiada donde:
+
+1. La empresa configura los requisitos del contratista.
+2. El contratista recibe un enlace personalizado.
+3. Carga únicamente la documentación requerida.
+4. El sistema valida vigencias y documentos obligatorios.
+5. Los responsables aprueban o rechazan cada documento.
+6. Todas las partes pueden consultar el estado del proceso en tiempo real.
+
+## Estado
+
+Investigación
+
 
