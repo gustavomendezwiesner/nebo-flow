@@ -1,3 +1,22 @@
+> **Estado del proyecto (Junio 2026)**
+>
+> Durante la fase inicial de investigación se identificaron múltiples oportunidades de negocio para Nebo Flow. Todas permanecen documentadas en este repositorio porque representan posibles líneas de evolución del producto.
+>
+> Después de comparar el tamaño del mercado, la frecuencia del problema, la disposición de pago y la facilidad para validar un MVP, se definieron cuatro oportunidades prioritarias para el Hackathon Build with Gemini.
+>
+> ## Oportunidades priorizadas
+>
+> | Prioridad | Oportunidad | Estado |
+> |-----------|-------------|--------|
+> | ⭐ #1 | Homologación de proveedores | Prioridad principal |
+> | #2 | Compra de vivienda | Investigación |
+> | #3 | Procesos notariales | Investigación |
+> | #4 | Software Procurement Advisor | Investigación |
+>
+> **Las demás oportunidades permanecen en este documento como parte del backlog estratégico de Nebo Flow y podrán retomarse en futuras versiones del producto.**
+>
+> ---
+> 
 # Opportunity Backlog
 
 ## Evaluación
