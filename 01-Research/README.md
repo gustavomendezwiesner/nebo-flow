@@ -1,23 +1,39 @@
 # Nebo Flow Research
 
-## Visión
+## Objetivo
 
-Nebo Flow busca simplificar procesos complejos mediante experiencias guiadas, recopilación documental, validación de información y coordinación entre múltiples actores.
+Esta carpeta reúne toda la investigación realizada para identificar oportunidades de negocio para Nebo Flow.
+
+Nuestro objetivo no es construir software por construir.
+
+Buscamos descubrir procesos complejos que puedan transformarse en experiencias guiadas, reduciendo tiempo, errores e incertidumbre para empresas y personas.
 
 ---
 
-## Problemas identificados
+## Oportunidades identificadas
 
-- Homologación de proveedores
-- Onboarding de contratistas
+- Homologación de proveedores ⭐
 - Compra de vivienda
+- Procesos notariales
+- Software Procurement Advisor
+- Onboarding de contratistas
 - Crédito hipotecario
 - Gestión documental legal
-- Procesos notariales
 - Validación documental
 - Seguimiento de trámites
 
 ---
+
+## Oportunidades priorizadas (Junio 2026)
+
+Después de la investigación inicial, Nebo Flow concentra sus esfuerzos en cuatro oportunidades principales:
+
+1. ⭐ Homologación de proveedores
+2. Compra de vivienda
+3. Procesos notariales
+4. Software Procurement Advisor
+
+Las demás oportunidades continúan documentadas como parte del backlog estratégico del proyecto.
 
 ## Hipótesis
 
@@ -48,15 +64,16 @@ Quieren que alguien las guíe paso a paso hasta completar el trámite.
 - Webdox
 - OneNotary
 - La Haus
+- Airbnb
 
 ---
 
-## Próximas investigaciones
+## Próximas validaciones
 
-- Homologación de proveedores
-- Contratación de contratistas
-- Compra de vivienda
-- Créditos hipotecarios
+- Entrevistas con responsables de Compras
+- Entrevistas con constructoras y bancos
+- Validación con abogados y notarías
+- Validación del Software Procurement Advisor
 
 ---
 
