@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este documento almacena todas las entrevistas realizadas a clientes potenciales de Nebo Flow.
+Este documento define la metodología y la plantilla utilizada para entrevistar clientes potenciales de Nebo Flow.
 
 El objetivo no es vender una solución.
 
@@ -68,6 +68,18 @@ Siempre intentar medir:
 
 ---
 
+# Preparación
+
+Antes de iniciar la entrevista debemos definir:
+
+- Oportunidad que estamos validando.
+- Hipótesis que queremos comprobar.
+- Perfil del entrevistado.
+- Qué evidencia esperamos obtener.
+
+No improvisar preguntas durante la entrevista.
+---
+
 # Información del entrevistado
 
 Fecha:
@@ -83,6 +95,20 @@ Número de empleados:
 Entrevistador:
 
 Duración:
+
+---
+
+## Oportunidad
+
+Homologación de proveedores
+
+---
+
+## Hipótesis
+
+Ejemplo:
+
+"La mayor fricción del proceso está en la recopilación y validación documental."
 
 ---
 

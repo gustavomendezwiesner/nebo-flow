@@ -12,7 +12,9 @@ Buscamos descubrir procesos complejos que puedan transformarse en experiencias g
 
 ## Oportunidades identificadas
 
-- Homologación de proveedores ⭐
+Durante la fase inicial de investigación se identificaron múltiples oportunidades de negocio para Nebo Flow. Todas permanecen documentadas porque representan posibles líneas de evolución del producto.
+
+- ⭐ Homologación de proveedores
 - Compra de vivienda
 - Procesos notariales
 - Software Procurement Advisor
@@ -22,18 +24,28 @@ Buscamos descubrir procesos complejos que puedan transformarse en experiencias g
 - Validación documental
 - Seguimiento de trámites
 
+### Documentación disponible
+
+- Opportunity Backlog.md
+- Customer Interviews.md
+- Market Research.md
+- Competitor Analysis.md
+- Hypotheses.md
+- Opportunity Scorecard.md
+- Software Procurement Advisor.md
+
 ---
 
 ## Oportunidades priorizadas (Junio 2026)
 
-Después de la investigación inicial, Nebo Flow concentra sus esfuerzos en cuatro oportunidades principales:
+Después de comparar el tamaño del mercado, la frecuencia del problema, la disposición de pago y la facilidad para validar un MVP, Nebo Flow concentra actualmente sus esfuerzos en las siguientes oportunidades:
 
-1. ⭐ Homologación de proveedores
-2. Compra de vivienda
-3. Procesos notariales
-4. Software Procurement Advisor
+1. ⭐ **Homologación de proveedores**
+2. **Compra de vivienda**
+3. **Procesos notariales**
+4. **Software Procurement Advisor**
 
-Las demás oportunidades continúan documentadas como parte del backlog estratégico del proyecto.
+Las demás oportunidades continúan documentadas como parte del backlog estratégico del proyecto y podrán retomarse en futuras etapas de investigación o desarrollo.
 
 ## Hipótesis
 
